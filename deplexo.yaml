@@ -1,0 +1,4 @@
+framework: python
+install: pip install flask
+start: flask run
+port: 5000
